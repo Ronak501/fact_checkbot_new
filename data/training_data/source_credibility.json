@@ -1,0 +1,36 @@
+{
+    "credible_sources": [
+        {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "credibility_score": 0.95
+        },
+        {
+            "name": "Associated Press",
+            "domain": "ap.org",
+            "credibility_score": 0.95
+        },
+        {
+            "name": "BBC News",
+            "domain": "bbc.com",
+            "credibility_score": 0.90
+        },
+        {
+            "name": "The New York Times",
+            "domain": "nytimes.com",
+            "credibility_score": 0.90
+        },
+        {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "credibility_score": 0.85
+        }
+    ],
+    "unreliable_sources": [
+        {
+            "name": "Example Unreliable Source",
+            "domain": "example-unreliable.com",
+            "credibility_score": 0.20
+        }
+    ]
+}

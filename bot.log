@@ -1,0 +1,219 @@
+2025-06-09 20:06:04,732 - ERROR - Error initializing Fact Check Bot: Missing required environment variables: SERP_API_KEY, REDIS_HOST, REDIS_PORT
+2025-06-09 20:06:04,732 - ERROR - Critical error in main: Missing required environment variables: SERP_API_KEY, REDIS_HOST, REDIS_PORT
+2025-06-09 20:07:42,772 - ERROR - Error initializing Fact Check Bot: No .env file found. Please create a .env file with required variables.
+2025-06-09 20:07:42,772 - ERROR - Critical error in main: No .env file found. Please create a .env file with required variables.
+2025-06-09 20:09:30,912 - ERROR - Error initializing Fact Check Bot: No .env file found. Please create a .env file with required variables.
+2025-06-09 20:09:30,913 - ERROR - Critical error in main: No .env file found. Please create a .env file with required variables.
+2025-06-09 20:11:10,817 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:11:10,818 - INFO - Found .env file at: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:11:10,819 - ERROR - Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:11:10,820 - ERROR - Error initializing Fact Check Bot: Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:11:10,821 - ERROR - Critical error in main: Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:13:23,754 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:13:23,755 - INFO - Found .env file at: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:13:23,756 - ERROR - Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:13:23,756 - ERROR - Error initializing Fact Check Bot: Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:13:23,756 - ERROR - Critical error in main: Failed to load .env file from: d:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\.env
+2025-06-09 20:17:55,841 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:17:55,841 - INFO - Found a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:17:55,841 - ERROR - Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:17:55,841 - ERROR - Error initializing Fact Check Bot: Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:17:55,841 - ERROR - Critical error in main: Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:21:14,254 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:21:14,255 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:21:14,256 - ERROR - Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:21:14,256 - ERROR - Error initializing Fact Check Bot: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:21:14,257 - ERROR - Critical error in main: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:22:51,815 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:22:51,815 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:22:51,815 - ERROR - Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:22:51,815 - ERROR - Error initializing Fact Check Bot: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:22:51,815 - ERROR - Critical error in main: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:54:55,404 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:54:55,404 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:54:55,404 - ERROR - Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:54:55,404 - ERROR - Error initializing Fact Check Bot: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:54:55,404 - ERROR - Critical error in main: Missing required environment variables:
+- SERP_API_KEY (Serp API key for web searches)
+- REDIS_HOST (Redis server host (default: localhost))
+- REDIS_PORT (Redis server port (default: 6379))
+- REDIS_DB (Redis database number (default: 0))
+
+Please add these variables to your a.env file at: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:59:46,767 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 20:59:46,767 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 20:59:49,595 - INFO - Use pytorch device_name: cpu
+2025-06-09 20:59:49,595 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 20:59:57,176 - INFO - Fact Check Bot initialized successfully
+2025-06-09 21:00:12,273 - INFO - Processing query: give me information about indian election
+2025-06-09 21:00:16,342 - ERROR - Error processing query: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-06-09 21:01:30,829 - INFO - Processing query: exit
+2025-06-09 21:01:34,898 - ERROR - Error processing query: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-06-09 21:40:19,889 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 21:40:19,889 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 21:40:22,306 - INFO - Use pytorch device_name: cpu
+2025-06-09 21:40:22,306 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 21:40:29,999 - INFO - Fact Check Bot initialized successfully
+2025-06-09 21:40:50,044 - INFO - Processing query: what is the capital of india
+2025-06-09 21:40:54,112 - ERROR - Error processing query: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-06-09 21:56:13,461 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 21:56:13,461 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 21:56:16,654 - INFO - Use pytorch device_name: cpu
+2025-06-09 21:56:16,654 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 21:56:25,532 - INFO - Fact Check Bot initialized successfully
+2025-06-09 21:56:39,722 - INFO - Processing query: what is the capital of india
+2025-06-09 21:56:41,771 - ERROR - Error processing query: 'IntentClassifier' object has no attribute 'classify_intent'
+2025-06-09 21:57:17,364 - INFO - Processing query: give me info about election in india
+2025-06-09 21:57:17,364 - ERROR - Error processing query: 'IntentClassifier' object has no attribute 'classify_intent'
+2025-06-09 21:59:15,599 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 21:59:15,601 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 21:59:18,148 - INFO - Use pytorch device_name: cpu
+2025-06-09 21:59:18,148 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 21:59:25,223 - INFO - Fact Check Bot initialized successfully
+2025-06-09 21:59:34,363 - INFO - Processing query: what is the capital of india
+2025-06-09 21:59:36,693 - INFO - Classified intent: general_query
+2025-06-09 21:59:36,720 - INFO - Extracted entities: [('india', 'GPE')]
+2025-06-09 21:59:36,728 - ERROR - Error processing query: 'QueryGenerator' object has no attribute 'generate_general_query'
+2025-06-09 22:00:26,177 - INFO - Processing query: does the delhi is capital of india
+2025-06-09 22:00:26,214 - INFO - Classified intent: general_query
+2025-06-09 22:00:26,229 - INFO - Extracted entities: [('india', 'GPE')]
+2025-06-09 22:00:26,232 - ERROR - Error processing query: 'QueryGenerator' object has no attribute 'generate_general_query'
+2025-06-09 22:00:35,677 - INFO - Processing query: thanks
+2025-06-09 22:00:35,700 - INFO - Classified intent: general_query
+2025-06-09 22:00:35,713 - INFO - Extracted entities: []
+2025-06-09 22:00:35,716 - ERROR - Error processing query: 'QueryGenerator' object has no attribute 'generate_general_query'
+2025-06-09 22:00:41,330 - INFO - Processing query: hii
+2025-06-09 22:00:41,352 - INFO - Classified intent: general_query
+2025-06-09 22:00:41,362 - INFO - Extracted entities: [('hii', 'ORG')]
+2025-06-09 22:00:41,367 - ERROR - Error processing query: 'QueryGenerator' object has no attribute 'generate_general_query'
+2025-06-09 22:01:30,790 - INFO - Processing query: & "D:/ET23BTCO123/Udemy Course/venv/python.exe" d:/ET23BTCO123/project/factcheck_bot/fact_check_bot2/main.py
+2025-06-09 22:01:30,870 - INFO - Classified intent: general_query
+2025-06-09 22:01:30,889 - INFO - Extracted entities: []
+2025-06-09 22:01:30,895 - ERROR - Error processing query: 'QueryGenerator' object has no attribute 'generate_general_query'
+2025-06-09 22:06:05,289 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 22:06:05,289 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:06:08,450 - INFO - Use pytorch device_name: cpu
+2025-06-09 22:06:08,450 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 22:06:16,685 - INFO - Fact Check Bot initialized successfully
+2025-06-09 22:06:29,588 - INFO - Processing query: Is it true that the Earth is flat?
+2025-06-09 22:06:31,668 - INFO - Classified intent: fact_check
+2025-06-09 22:06:31,670 - INFO - Extracted entities: [('Earth', 'LOC')]
+2025-06-09 22:06:31,820 - INFO - Generated search query: {'query': 'earth flat true earth flat', 'keywords': ['earth flat', 'earth', 'true earth', 'flat', 'true'], 'keyword_details': [{'term': 'earth flat', 'score': 0.7957, 'source': 'keybert'}, {'term': 'earth', 'score': 0.6, 'source': 'entity'}, {'term': 'true earth', 'score': 0.5556, 'source': 'keybert'}, {'term': 'flat', 'score': 0.5206, 'source': 'keybert'}, {'term': 'true', 'score': 0.5, 'source': 'tfidf'}], 'intent': 'fact_check'}
+2025-06-09 22:06:32,639 - INFO - Found 0 search results
+2025-06-09 22:06:32,639 - INFO - Validated 0 sources
+2025-06-09 22:06:32,639 - INFO - Response cached successfully
+2025-06-09 22:06:46,175 - INFO - Processing query: what is the capital of india
+2025-06-09 22:06:46,193 - INFO - Classified intent: general_query
+2025-06-09 22:06:46,214 - INFO - Extracted entities: [('india', 'GPE')]
+2025-06-09 22:06:46,266 - INFO - Generated search query: {'query': 'capital india capital india', 'keywords': ['capital india', 'india', 'capital'], 'keyword_details': [{'term': 'capital india', 'score': 0.9098, 'source': 'keybert'}, {'term': 'india', 'score': 0.8, 'source': 'entity'}, {'term': 'capital', 'score': 0.5207, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:06:47,218 - INFO - Found 0 search results
+2025-06-09 22:06:47,218 - INFO - Validated 0 sources
+2025-06-09 22:06:47,218 - INFO - Response cached successfully
+2025-06-09 22:07:00,876 - INFO - Processing query: capital of india
+2025-06-09 22:07:00,897 - INFO - Classified intent: general_query
+2025-06-09 22:07:00,907 - INFO - Extracted entities: [('capital of india', 'ORG')]
+2025-06-09 22:07:01,038 - INFO - Generated search query: {'query': 'capital india capital india', 'keywords': ['capital india', 'capital of india', 'capital', 'india'], 'keyword_details': [{'term': 'capital india', 'score': 0.9684, 'source': 'keybert'}, {'term': 'capital of india', 'score': 0.8, 'source': 'entity'}, {'term': 'capital', 'score': 0.6523, 'source': 'keybert'}, {'term': 'india', 'score': 0.5602, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:07:02,477 - INFO - Found 0 search results
+2025-06-09 22:07:02,477 - INFO - Validated 0 sources
+2025-06-09 22:07:02,477 - INFO - Response cached successfully
+2025-06-09 22:07:10,664 - INFO - Processing query: AI
+2025-06-09 22:07:10,680 - INFO - Classified intent: general_query
+2025-06-09 22:07:10,690 - INFO - Extracted entities: [('AI', 'GPE')]
+2025-06-09 22:07:10,749 - INFO - Generated search query: {'query': 'ai', 'keywords': ['ai'], 'keyword_details': [{'term': 'ai', 'score': 1.0, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:07:11,546 - INFO - Found 0 search results
+2025-06-09 22:07:11,546 - INFO - Validated 0 sources
+2025-06-09 22:07:11,563 - INFO - Response cached successfully
+2025-06-09 22:07:20,940 - INFO - Processing query: what is the ai
+2025-06-09 22:07:20,961 - INFO - Classified intent: general_query
+2025-06-09 22:07:20,972 - INFO - Extracted entities: []
+2025-06-09 22:07:21,029 - INFO - Generated search query: {'query': 'ai', 'keywords': ['ai'], 'keyword_details': [{'term': 'ai', 'score': 0.8308, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:07:23,277 - INFO - Found 0 search results
+2025-06-09 22:07:23,277 - INFO - Validated 0 sources
+2025-06-09 22:07:23,277 - INFO - Response cached successfully
+2025-06-09 22:07:41,712 - INFO - Processing query: What is the capital of France?
+2025-06-09 22:07:41,727 - INFO - Classified intent: general_query
+2025-06-09 22:07:41,734 - INFO - Extracted entities: [('France', 'GPE')]
+2025-06-09 22:07:41,784 - INFO - Generated search query: {'query': 'capital france france capital', 'keywords': ['capital france', 'france', 'capital'], 'keyword_details': [{'term': 'capital france', 'score': 0.908, 'source': 'keybert'}, {'term': 'france', 'score': 0.8, 'source': 'entity'}, {'term': 'capital', 'score': 0.5395, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:07:42,569 - INFO - Found 0 search results
+2025-06-09 22:07:42,569 - INFO - Validated 0 sources
+2025-06-09 22:07:42,569 - INFO - Response cached successfully
+2025-06-09 22:10:17,344 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 22:10:17,344 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:10:19,478 - INFO - Use pytorch device_name: cpu
+2025-06-09 22:10:19,478 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 22:10:27,923 - INFO - Fact Check Bot initialized successfully
+2025-06-09 22:10:37,752 - INFO - Processing query: what is the capital of india
+2025-06-09 22:10:39,779 - INFO - Retrieved response from cache
+2025-06-09 22:12:23,168 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 22:12:23,168 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:12:23,168 - ERROR - Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env. Error: SERP_API_KEY appears to be invalid (too short)
+2025-06-09 22:12:23,168 - ERROR - Error initializing Fact Check Bot: Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:12:23,168 - ERROR - Critical error in main: Failed to load a.env file from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:13:31,067 - INFO - Current working directory: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2
+2025-06-09 22:13:31,067 - INFO - Loaded environment variables from: D:\ET23BTCO123\project\factcheck_bot\fact_check_bot2\a.env
+2025-06-09 22:13:31,067 - INFO - API key loaded successfully
+2025-06-09 22:13:38,451 - INFO - Use pytorch device_name: cpu
+2025-06-09 22:13:38,451 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-09 22:13:45,053 - INFO - Fact Check Bot initialized successfully
+2025-06-09 22:13:57,567 - INFO - Processing query: what is the capital of india
+2025-06-09 22:13:59,596 - INFO - Retrieved response from cache
+2025-06-09 22:14:13,615 - INFO - Processing query: Who is the current president of the United States?
+2025-06-09 22:14:13,664 - INFO - Classified intent: general_query
+2025-06-09 22:14:13,677 - INFO - Extracted entities: [('the United States', 'GPE')]
+2025-06-09 22:14:13,752 - INFO - Generated search query: {'query': 'current president president president united', 'keywords': ['current president', 'the united states', 'president', 'president united', 'united states', 'united', 'states', 'current'], 'keyword_details': [{'term': 'current president', 'score': 0.8477, 'source': 'keybert'}, {'term': 'the united states', 'score': 0.8, 'source': 'entity'}, {'term': 'president', 'score': 0.697, 'source': 'keybert'}, {'term': 'president united', 'score': 0.5987, 'source': 'keybert'}, {'term': 'united states', 'score': 0.5, 'source': 'tfidf'}, {'term': 'united', 'score': 0.5, 'source': 'tfidf'}, {'term': 'states', 'score': 0.5, 'source': 'tfidf'}, {'term': 'current', 'score': 0.3044, 'source': 'keybert'}], 'intent': 'general_query'}
+2025-06-09 22:14:13,752 - INFO - Attempting search with query: current president president president united
+2025-06-09 22:14:13,752 - INFO - Making request to Serp API with params: {"q": "current president president president united", "engine": "bing", "num": 5, "gl": "us", "hl": "en"}
+2025-06-09 22:14:17,741 - INFO - Serp API response status: 200
+2025-06-09 22:14:17,741 - INFO - Response keys: ['search_metadata', 'search_parameters', 'search_information', 'top_stories', 'top_stories_link', 'top_stories_serpapi_link', 'organic_results', 'knowledge_graph', 'related_questions', 'related_searches', 'pagination', 'serpapi_pagination']
+2025-06-09 22:14:17,741 - INFO - Found 10 valid results
+2025-06-09 22:14:17,741 - INFO - Found 10 search results
+2025-06-09 22:14:17,741 - INFO - Validated 0 sources
+2025-06-09 22:14:17,741 - INFO - Response cached successfully
