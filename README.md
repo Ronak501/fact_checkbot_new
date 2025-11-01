@@ -25,7 +25,7 @@ An intelligent fact-checking bot that uses advanced NLP and machine learning tec
 1. Clone the repository:
 ```bash
 git clone [your-repository-url]
-cd fact_check_bot2
+cd fact_check_bot
 ```
 
 2. Create and activate a virtual environment:
